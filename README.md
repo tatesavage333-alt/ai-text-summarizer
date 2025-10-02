@@ -2,6 +2,9 @@
 
 A modern web application that transforms long text into concise, intelligent summaries using OpenAI's GPT-3.5 Turbo. Built with Next.js, TypeScript, and Tailwind CSS.
 
+https://github.com/user-attachments/assets/30a96749-9408-43f1-88ce-ef423c31cf7a
+
+
 ## Features
 
 ### Core Functionality
